@@ -111,16 +111,6 @@
             "remarks": "in"
         },
         {
-            "serialNumber": 11,
-            "item": "Cabbage",
-            "quantity": 1,
-            "unit": "Nos",
-            "department": "Vegetables",
-            "notes": "Fresh, Medium size",
-            "remarks": "in"
-        },
-
-        {
             "serialNumber": 12,
             "item": "Capsicum",
             "quantity": 4,
