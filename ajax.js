@@ -1,8 +1,9 @@
-
+function item(){
     var xhttp = new XMLHttpRequest();  //creating XHR object
+
     // Event listener
     xhttp.onreadystatechange = function(){ 
-        if(this.readyState==4&&this.setRequestHeader==200){
+        if(this.readyState==4&&this.status==200){
             var response = JSON.parse(this.responseText);
             var list = "";
             list = <tr>
@@ -30,5 +31,6 @@
             document.getElementById("listElements").innerHTML = output;
         }
     }
+}
     xhttp.open("GET", "data.json", true);
     xhttp.send();
