@@ -17,22 +17,17 @@ h1{
    font-size: 50px;
    text-decoration: underline;
 }
-
-#btn{
-    padding: 10px;
-    border: none;
-    background-color: #391;
-    width: 10%;
-    color: #fff;
-    cursor: pointer;
-    transition: 0.1s;
-    position: absolute;
-    top: 13%;
-    left: 45%;
-    font-size: larger;
-    border-radius: 5px;
-}    
-#btn:hover{
-    border: none;
-    background-color: #729;
+h1:hover{
+    color:#a31c04;
+    font-weight: normal;
+}
+.table{
+    margin-top: 10px;
+    width: 90%;
+    margin-left: 5%;
+    font-weight: 450;
+    font-size: 22px;
+}
+.table:hover{
+    color: #a31c04;
 }
