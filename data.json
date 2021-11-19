@@ -1,0 +1,114 @@
+{
+    "items":[
+        {
+            "serialNumber": 1,
+            "item": "Pen",
+            "quantity": 5,
+            "unit": "Nos",
+            "department": "Stationary",
+            "notes": "3 Black, 2 Blue"
+        },
+
+        {
+            "serialNumber": 2,
+            "item": "Copier Paper",
+            "quantity": 1,
+            "unit": "Ream",
+            "department": "Stationary",
+            "notes": "75 gsm"
+        },
+
+        {
+            "serialNumber": 3,
+            "item": "Rice",
+            "quantity": 10,
+            "unit": "kg",
+            "department": "Grocery",
+            "notes": "Matta, New stock"
+        },
+
+        {
+            "serialNumber": 4,
+            "item": "Groundnut",
+            "quantity": 1,
+            "unit": "kg",
+            "department": "Grocery",
+            "notes": "Raw, New stock"
+        },
+
+        {
+            "serialNumber": 5,
+            "item": "Green gram",
+            "quantity": 1,
+            "unit": "kg",
+            "department": "Grocery",
+            "notes": "New stock"
+
+        },
+
+        {
+            "serialNumber": 6,
+            "item": "Biscuit",
+            "quantity": 4,
+            "unit": "Packets",
+            "department": "Snacks",
+            "notes": "2 Arrowroot, 2 Chocolate chip"
+        },
+
+        {
+            "serialNumber": 6,
+            "item": "Milk",
+            "quantity": 1,
+            "unit": "Litre",
+            "department": "Dairy",
+            "notes": "Toned milk,"
+
+        },
+
+        {
+            "serialNumber": 8,
+            "item": "Butter",
+            "quantity": 250,
+            "unit": "gm",
+            "department": "Dairy",
+            "notes": "Unsalted,"
+
+        },
+
+        {
+            "serialNumber": 9,
+            "item": "Tomato",
+            "quantity": 1,
+            "unit": "kg",
+            "department": "Vegetables",
+            "notes": "Fresh"
+        },
+
+        {
+            "serialNumber": 10,
+            "item": "Onion",
+            "quantity": 1,
+            "unit": "kg",
+            "department": "Vegetables",
+            "notes": "Fresh"
+        },
+
+        {
+            "serialNumber": 11,
+            "item": "Cabbage",
+            "quantity": 1,
+            "unit": "Nos",
+            "department": "Vegetables",
+            "notes": "Fresh, Medium size"
+        },
+
+        {
+            "serialNumber": 12,
+            "item": "Capsicum",
+            "quantity": 4,
+            "unit": "Nos",
+            "department": "Vegetables",
+            "notes": "Fresh"
+        }
+    ]
+}
